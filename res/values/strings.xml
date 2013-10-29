@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploBQ</string>
+    <string name="action_settings">ACS</string>
+    <string name="icon_content_desc">Click para abrir portada</string>
+   	<string name="switchOrder">Ordenar por: </string>
+    
+    <string-array name="valores_orden">
+        <item>Nombre de archivo</item>
+        <item>Fecha de creación</item>        
+    </string-array>
+    
+
+</resources>
